@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\bin\Debug\OOPLesson3.exe.config
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\bin\Debug\OOPLesson3.exe
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\bin\Debug\OOPLesson3.pdb
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\obj\Debug\OOPLesson3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\obj\Debug\OOPLesson3.Form1.resources
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\obj\Debug\OOPLesson3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\obj\Debug\OOPLesson3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\obj\Debug\OOPLesson3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\obj\Debug\OOPLesson3.exe
+C:\Users\Administrator\Desktop\my lab projects\OOPLesson3\obj\Debug\OOPLesson3.pdb
