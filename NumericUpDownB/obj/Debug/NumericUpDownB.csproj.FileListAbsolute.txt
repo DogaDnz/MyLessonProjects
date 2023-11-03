@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\bin\Debug\NumericUpDownB.exe.config
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\bin\Debug\NumericUpDownB.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\bin\Debug\NumericUpDownB.pdb
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\obj\Debug\NumericUpDownB.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\obj\Debug\NumericUpDownB.Form1.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\obj\Debug\NumericUpDownB.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\obj\Debug\NumericUpDownB.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\obj\Debug\NumericUpDownB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\obj\Debug\NumericUpDownB.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\NumericUpDownB\obj\Debug\NumericUpDownB.pdb
