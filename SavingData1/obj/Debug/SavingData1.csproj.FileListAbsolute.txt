@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\bin\Debug\SavingData1.exe.config
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\bin\Debug\SavingData1.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\bin\Debug\SavingData1.pdb
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\obj\Debug\SavingData1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\obj\Debug\SavingData1.Form1.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\obj\Debug\SavingData1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\obj\Debug\SavingData1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\obj\Debug\SavingData1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\obj\Debug\SavingData1.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\SavingData1\obj\Debug\SavingData1.pdb
