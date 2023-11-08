@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\bin\Debug\labsheet4.exe.config
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\bin\Debug\labsheet4.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\bin\Debug\labsheet4.pdb
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\obj\Debug\labsheet4.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\obj\Debug\labsheet4.Form1.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\obj\Debug\labsheet4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\obj\Debug\labsheet4.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\obj\Debug\labsheet4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\obj\Debug\labsheet4.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\labsheet4\obj\Debug\labsheet4.pdb
