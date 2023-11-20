@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\bin\Debug\IceCreamProject.exe.config
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\bin\Debug\IceCreamProject.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\bin\Debug\IceCreamProject.pdb
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\obj\Debug\IceCreamProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\obj\Debug\IceCreamProject.Form1.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\obj\Debug\IceCreamProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\obj\Debug\IceCreamProject.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\obj\Debug\IceCreamProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\obj\Debug\IceCreamProject.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\icecreamproject\IceCreamProject\obj\Debug\IceCreamProject.pdb
