@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\bin\Debug\13aralık lab.exe.config
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\bin\Debug\13aralık lab.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\bin\Debug\13aralık lab.pdb
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\obj\Debug\13aralık lab.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\obj\Debug\_13aralık_lab.Form1.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\obj\Debug\_13aralık_lab.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\obj\Debug\13aralık lab.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\obj\Debug\13aralık lab.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\obj\Debug\13aralık lab.exe
+C:\Users\Administrator\Desktop\2nd Year Classes\my lab projects\13aralık lab\obj\Debug\13aralık lab.pdb
